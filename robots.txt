@@ -1,0 +1,11 @@
+Sitemap: https://skilling.com/eu/sitemap.xml
+Sitemap: https://skilling.com/eu/sitemap-instruments.xml
+Sitemap: https://skilling.com/row/sitemap.xml
+Sitemap: https://skilling.com/row/sitemap-instruments.xml
+User-agent:*
+Disallow: /row/it/
+Disallow: /row/sv/
+Disallow: /row/no/
+Disallow: /row/de/
+Disallow: /eu/sv/kf/
+Disallow: /instrument-details/

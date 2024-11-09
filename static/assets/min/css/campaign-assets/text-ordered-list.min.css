@@ -1,0 +1,1 @@
+.text-ordered-list p{color:#242424}.text-ordered-list ol li{counter-increment:list;list-style-type:none;position:relative;padding-left:3rem!important;color:#242424;margin-bottom:1rem}.text-ordered-list ol li:before{color:#00e3ba;content:counter(list);left:0;position:absolute;text-align:center;width:30px;border:2px solid #68A7F4;border-radius:6px}

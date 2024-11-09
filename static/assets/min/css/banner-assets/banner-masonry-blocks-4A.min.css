@@ -1,0 +1,183 @@
+.banner-masonry-blocks-4A {
+  overflow-x: hidden;
+}
+.banner-masonry-blocks-4A .btn-width {
+  max-width: 240px;
+  display: block;
+}
+.banner-masonry-blocks-4A .btn-round {
+  background-color: #68a7f4;
+  border-color: #68a7f4;
+  border-radius: 37px;
+  color: #fff;
+  margin-bottom: 0.7rem;
+}
+.banner-masonry-blocks-4A .btn-round:hover {
+  box-shadow: 0 10px 25px -10px #68a7f4;
+  color: #fff;
+}
+.banner-masonry-blocks-4A .btn-round_white {
+  background-color: #fff;
+  color: #68a7f4;
+  border-color: #fff;
+}
+.banner-masonry-blocks-4A .btn-round_white:hover {
+  box-shadow: 0 10px 25px -10px #fff;
+  color: #68a7f4;
+  border-color: #fff;
+}
+.banner-masonry-blocks-4A .btn-round_outline {
+  background-color: transparent;
+}
+.banner-masonry-blocks-4A .btn-round_outline--white {
+  border: 1px solid #fff;
+}
+.banner-masonry-blocks-4A .btn-round_outline--white:hover {
+  color: #fff;
+  box-shadow: 0 10px 25px -10px #fff;
+}
+.banner-masonry-blocks-4A .btn-round_outline--black {
+  border: 1px solid #000;
+  color: #121212;
+}
+.banner-masonry-blocks-4A .btn-round_outline--black:hover {
+  color: #121212;
+}
+.banner-masonry-blocks-4A .color-83 {
+  color: #121212;
+}
+.banner-masonry-blocks-4A .flex-wrapper {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: nowrap;
+}
+.banner-masonry-blocks-4A .flex-card {
+  word-break: break-word;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+}
+.banner-masonry-blocks-4A .flex-card-1,
+.banner-masonry-blocks-4A .flex-card-2,
+.banner-masonry-blocks-4A .flex-card-3,
+.banner-masonry-blocks-4A .flex-card-4 {
+  border-radius: 20px;
+  padding: 2rem 3rem;
+  position: relative;
+}
+.banner-masonry-blocks-4A .flex-card-1_img,
+.banner-masonry-blocks-4A .flex-card-2_img,
+.banner-masonry-blocks-4A .flex-card-3_img,
+.banner-masonry-blocks-4A .flex-card-4_img {
+  width: 70%;
+}
+.banner-masonry-blocks-4A .flex-card-1_btn,
+.banner-masonry-blocks-4A .flex-card-2_btn,
+.banner-masonry-blocks-4A .flex-card-3_btn,
+.banner-masonry-blocks-4A .flex-card-4_btn {
+  min-width: 240px;
+}
+.banner-masonry-blocks-4A .flex-card-4a {
+  word-break: unset;
+  border-radius: 20px;
+  padding: 2rem 3rem;
+  position: relative;
+}
+.banner-masonry-blocks-4A .flex-card_title {
+  font-size: 1.6rem;
+}
+.banner-masonry-blocks-4A .flex-card-1 {
+  background-color: #68a7f4;
+}
+.banner-masonry-blocks-4A .flex-card-1_img {
+  width: 80%;
+}
+.banner-masonry-blocks-4A .flex-card-1_btn {
+  min-width: 240px;
+}
+.banner-masonry-blocks-4A .flex-card-2_copy h3 {
+  font-size: 2.2rem;
+  line-height: 1.2;
+  color: #fff;
+}
+.banner-masonry-blocks-4A .flex-card-2_btn {
+  min-width: 240px;
+}
+.banner-masonry-blocks-4A .flex-color_main {
+  background-color: #68a7f4;
+}
+.banner-masonry-blocks-4A .flex-color_dark-blue {
+  background-color: #27273a;
+}
+.banner-masonry-blocks-4A .flex-color_pale-white {
+  background-color: #f1f5ff;
+}
+.banner-masonry-blocks-4A .flex-color_light-blue {
+  background-color: #c9dfff;
+}
+@media (min-width: 768px) {
+  .banner-masonry-blocks-4A .flex-container {
+    display: flex;
+    justify-content: space-between;
+  }
+  .banner-masonry-blocks-4A .flex-card {
+    position: relative;
+  }
+}
+@media (min-width: 992px) {
+  .banner-masonry-blocks-4A .flex-card {
+    height: 430px;
+    align-items: unset;
+    justify-content: unset;
+  }
+  .banner-masonry-blocks-4A .flex-card-1_img {
+    position: absolute;
+    top: -50px;
+    width: 50%;
+    right: -26px;
+  }
+  .banner-masonry-blocks-4A .flex-card-1_btn {
+    position: absolute;
+    bottom: 14px;
+  }
+  .banner-masonry-blocks-4A .flex-card-2_copy {
+    position: absolute;
+    bottom: 72px;
+  }
+  .banner-masonry-blocks-4A .flex-card-2_img {
+    position: absolute;
+    top: -55px;
+    right: 0;
+    width: 65%;
+  }
+  .banner-masonry-blocks-4A .flex-card-3_img {
+    position: absolute;
+    top: -22px;
+    right: -59px;
+    width: 80%;
+  }
+  .banner-masonry-blocks-4A .flex-card-4_img {
+    position: absolute;
+    width: 65%;
+    top: 125px;
+    right: -30px;
+  }
+}
+@media (min-width: 1200px) {
+  .banner-masonry-blocks-4A {
+    overflow-x: unset;
+  }
+  .banner-masonry-blocks-4A .flex-card-1_img {
+    width: 55%;
+    right: 0;
+  }
+  .banner-masonry-blocks-4A .flex-card-4_btn {
+    position: absolute;
+    bottom: 144px;
+  }
+  .banner-masonry-blocks-4A .flex-card-4_img {
+    width: 60%;
+  }
+}
